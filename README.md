@@ -3,7 +3,7 @@ Utilizing the Robotarium Software by GeorgiaTech, A given number of robots are d
 
 **Concepts Used**
 
-**Swarm Robotics**
+**Swarm Robotics** /n
 This is the foundational concept where a large number of robots operate in coordination. The robots in a swarm share information and work together to complete tasks more efficiently than a single robot could.
 
 **Formation Control**
