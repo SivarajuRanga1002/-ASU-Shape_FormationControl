@@ -30,9 +30,32 @@ This involves defining the behavior of each robot and the swarm as a whole using
 **Simulation and Validation**
 
 After theoretical analysis, simulations are conducted to validate the models and control strategies. This step confirms that the swarm behaves as expected and that the "ASU" shape is formed accurately and efficiently.
-[U-Shape(2)_Robotarium.webm](https://github.com/SivarajuRanga1002/-ASU-Shape_FormationControl/assets/65248651/f18587d3-cfd5-4303-b9fe-1c968be867ec)
-[U-Shape(1)_Robotarium.webm](https://github.com/SivarajuRanga1002/-ASU-Shape_FormationControl/assets/65248651/6dbce763-6a5c-4827-9d68-2bf99088e974)
-[S-Shape(2)_Robotarium.webm](https://github.com/SivarajuRanga1002/-ASU-Shape_FormationControl/assets/65248651/aff8f5b8-fc0e-42de-a920-db58e09ca566)
-[S-Shape(1)_Robotarium.webm](https://github.com/SivarajuRanga1002/-ASU-Shape_FormationControl/assets/65248651/26a77d95-c4b4-4e99-a96f-22732e67e235)
-[A-Shape(2)_Robotarium.webm](https://github.com/SivarajuRanga1002/-ASU-Shape_FormationControl/assets/65248651/9336af31-5256-4ff0-8986-6c0b6b0cd477)
+
+
 [A-Shape(1)_Robotarium.webm](https://github.com/SivarajuRanga1002/-ASU-Shape_FormationControl/assets/65248651/010b0a51-966c-4464-82ce-3afc0a196760)
+
+
+[A-Shape(2)_Robotarium.webm](https://github.com/SivarajuRanga1002/-ASU-Shape_FormationControl/assets/65248651/9336af31-5256-4ff0-8986-6c0b6b0cd477)
+
+
+[S-Shape(1)_Robotarium.webm](https://github.com/SivarajuRanga1002/-ASU-Shape_FormationControl/assets/65248651/26a77d95-c4b4-4e99-a96f-22732e67e235)
+
+
+[S-Shape(2)_Robotarium.webm](https://github.com/SivarajuRanga1002/-ASU-Shape_FormationControl/assets/65248651/aff8f5b8-fc0e-42de-a920-db58e09ca566)
+
+
+[U-Shape(1)_Robotarium.webm](https://github.com/SivarajuRanga1002/-ASU-Shape_FormationControl/assets/65248651/6dbce763-6a5c-4827-9d68-2bf99088e974)
+
+
+[U-Shape(2)_Robotarium.webm](https://github.com/SivarajuRanga1002/-ASU-Shape_FormationControl/assets/65248651/f18587d3-cfd5-4303-b9fe-1c968be867ec)
+
+
+
+
+
+
+
+
+
+
+
