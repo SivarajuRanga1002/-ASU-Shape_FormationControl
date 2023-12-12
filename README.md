@@ -49,7 +49,12 @@ After theoretical analysis, simulations are conducted to validate the models and
 
 [U-Shape(2)_Robotarium.webm](https://github.com/SivarajuRanga1002/-ASU-Shape_FormationControl/assets/65248651/f18587d3-cfd5-4303-b9fe-1c968be867ec)
 
+**Robotarium robots Execution Results**
 
+**Respcted individual reader please go through the desciption in my playlist for a different understanding of Multi Robotic Systems**
+https://www.youtube.com/playlist?list=PLVMTVkBf5nwKHgr6BRgSoMCAi8gJ5COTk
+
+https://youtu.be/SAYaVjhrEP8?si=xYb8yUPKICoy9E2E
 
 
 **Additional Videos**
